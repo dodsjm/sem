@@ -4,4 +4,4 @@
 
 [![Releases](https://img.shields.io/github/release/dodsjm/sem/all.svg?style=flat-square)](https://github.com/dodsjm/sem/releases)
 
-https://img.shields.io/github/actions/workflow/status/dodsjm/sem/A%20workflow%20for%20my%20Hello%20World%20App?branch=develop&style=flat-square
+https://img.shields.io/github/actions/workflow/status/dodsjm/sem/main.yml?branch=develop&style=flat-square
