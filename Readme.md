@@ -4,4 +4,4 @@
 
 [![Releases](https://img.shields.io/github/release/dodsjm/sem/all.svg?style=flat-square)](https://github.com/dodsjm/sem/releases)
 
-https://img.shields.io/github/actions/workflow/status/dodsjm/sem/main.yml?branch=develop&style=flat-square
+[![Releases](https://img.shields.io/github/actions/workflow/status/dodsjm/sem/main.yml?branch=develop&style=flat-square)
