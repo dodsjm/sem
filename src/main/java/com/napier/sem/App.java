@@ -11,10 +11,15 @@ public class App {
     {
         // Connect to MongDB on local system - we're using port 27000
         MongoDatabase database;
-        try (MongoClient mongoClient = new MongoClient("localhost", 27000)) {
+     //   try (
+                MongoClient mongoClient = new MongoClient("localhost", 27000);
+
+        //)
+
+        //{
             // Get a database - will create when we use it
             database = mongoClient.getDatabase("mydb");
-        }
+    //   }
         // Get a collection from the database
         MongoCollection<Document> collection = database.getCollection("test");
         // Create a document to store
