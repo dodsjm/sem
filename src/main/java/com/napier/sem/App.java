@@ -12,7 +12,7 @@ public class App {
         // Connect to MongDB on local system - we're using port 27000
         MongoDatabase database;
      //   try (
-                MongoClient mongoClient = new MongoClient("localhost", 27000);
+                MongoClient mongoClient = new MongoClient("mongo-dbserver");
 
         //)
 
